@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+HAHA
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+BY 徐欣
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+豆豆电脑 Powered
+
+
+TEL: 0539-3285777
